@@ -44,13 +44,13 @@ Fill in the customer data, and click Predict Churn to see the results.
 
 ## Project Structure
 
-bank-churn-prediction/
-├─ app.py                  # Streamlit app
-├─ catboost_churn_model.cbm # Trained CatBoost model
-├─ churn_dataset.csv       # Original dataset
-├─ churnprediction.ipynb   # Jupyter notebook with EDA & model training
-├─ requirements.txt        # Python dependencies
-└─ README.md               # Project description
+bank-churn-prediction/   
+├─ app.py                  # Streamlit app   
+├─ catboost_churn_model.cbm # Trained CatBoost model   
+├─ churn_dataset.csv       # Original dataset   
+├─ churnprediction.ipynb   # Jupyter notebook with EDA & model training   
+├─ requirements.txt        # Python dependencies   
+└─ README.md               # Project description   
 
 ---
 
