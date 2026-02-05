@@ -56,7 +56,7 @@ bank-churn-prediction/
 
 ## Notes
 
-The app expects raw features as input and applies the same preprocessing used during model training.
-Churn threshold is set at 0.61 (can be adjusted in app.py).
+The app expects raw features as input and applies the same preprocessing used during model training.   
+Churn threshold is set at 0.609 (can be adjusted in app.py).
 
 ---
